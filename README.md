@@ -10,4 +10,7 @@
  i will be used for training/testing is the Grocery dataset from this link https://github.com/gulvarol/grocerydataset
  
  
+ # Progress : NOT COMPLETED
+ 
+ 
 
