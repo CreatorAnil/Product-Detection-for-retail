@@ -6,7 +6,7 @@
 ## What I will build 
  Implement a single shot object detector with only “one” anchor box per feature-map cell
  
-##DATASET 
+## DATASET 
  i will be used for training/testing is the Grocery dataset from this link https://github.com/gulvarol/grocerydataset
  
  
