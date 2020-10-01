@@ -1,1 +1,3 @@
-# Product-Detection-for-retail
+#### Product-Detection-for-retail
+
+This project NOT completed
